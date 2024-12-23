@@ -2,7 +2,7 @@
 
 <legend>
 Just my resume with automatic deployment, really.
-<img src="https://github.com/KINFOO/resume/actions/workflows/tests.yml/badge.svg" alt="Build status"/>
+<img src="https://github.com/KINFOO/resume/actions/workflows/build.yml/badge.svg" alt="Build status"/>
 </legend>
 
 ## Prerequisites

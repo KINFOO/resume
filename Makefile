@@ -9,7 +9,7 @@ resume:
 
 archive: resume
 	cd ${BUILD_FOLDER} && \
-	zip resume.zip *.pdf *.html
+	zip resumes.zip *.pdf *.html
 
 clean:
 	rm -fvr ${BUILD_FOLDER}
