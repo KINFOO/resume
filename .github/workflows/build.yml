@@ -9,14 +9,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
       - name: dependencies
         run: pipx install rendercv
 
-      - name: generate
+      - name: deploy
+        run: make -e deploy
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+
+      - name: generate archive
         run: make archive
 
       - name: store artifact
