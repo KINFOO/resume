@@ -9,11 +9,6 @@ resume:
 		--output-folder-name ${BUILD_FOLDER} \
 		resume.yaml
 
-
-archive: resume
-	cd ${BUILD_FOLDER} && \
-	zip resumes.zip *.pdf *.html
-
 deploy: resume
 	curl --user ${FTP_USER}:${FTP_PASSWORD} \
 		--ssl-reqd \

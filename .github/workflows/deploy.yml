@@ -20,14 +20,10 @@ jobs:
           FTP_USER: ${{ secrets.FTP_USER }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
 
-      - name: generate archive
-        run: make archive
-
-      - name: store artifact
+      - name: store artifacts
         uses: actions/upload-artifact@v4
         with:
           name: resumes
           path: |
-            build/resumes.zip
-            build/**.pdf
-            build/**.html
+            build/*.pdf
+            build/*.html
