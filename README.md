@@ -7,9 +7,10 @@ Just my resume with automatic deployment, really.
 
 ## Prerequisites
 
-```bash
-pipx install rendercv
-```
+- `curl`
+- `make`
+- `npx`
+- `pipx`
 
 ## Generate pdf & html resume
 
@@ -23,7 +24,15 @@ Or simply
 make
 ```
 
+<!-- ## Generate changelog
+
+```bash
+make changelog
+``` -->
+
 ## Deploy
+
+Sends generated resume to my website.
 
 ```bash
 make deploy

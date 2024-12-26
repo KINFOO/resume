@@ -4,7 +4,7 @@ FTP_USER=
 FTP_PASSWORD=
 
 resume:
-	rendercv render \
+	pipx run rendercv render \
 		--dont-generate-png \
 		--output-folder-name ${BUILD_FOLDER} \
 		resume.yaml

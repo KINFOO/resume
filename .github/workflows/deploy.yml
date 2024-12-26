@@ -10,9 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: dependencies
-        run: pipx install rendercv
-
       - name: deploy
         run: make -e deploy
         env:
