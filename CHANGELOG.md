@@ -3,7 +3,7 @@
 
 ### ci
 
-* adding `make changelog` ([3812c3c](https://github.com/KINFOO/resume/commit/3812c3c7627dd27e084c0746dd80341f793c0ef4))
+* adding `make release` ([7a3680c](https://github.com/KINFOO/resume/commit/7a3680c355c5092ccb0d8bd0204aa1d5c9a1dbe8))
 * archive step ([863fed5](https://github.com/KINFOO/resume/commit/863fed516c32de8d4bf4d3c75f35b9117e79e282))
 * deploy ([055aab4](https://github.com/KINFOO/resume/commit/055aab444bd8a81c9760db8e7e9b561110ccc083))
 * faster generation ([342b4f0](https://github.com/KINFOO/resume/commit/342b4f0d04e360edd53a19c896f787ba57878a89))
