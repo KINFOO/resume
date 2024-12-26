@@ -1,0 +1,19 @@
+name: Test
+
+on:
+  push:
+    branches: ['main']
+  pull_request:
+    branches: ['main']
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: dependencies
+        run: pipx install rendercv
+
+      - name: parse
+        run: make resume
