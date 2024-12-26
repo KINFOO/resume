@@ -24,11 +24,13 @@ Or simply
 make
 ```
 
-<!-- ## Generate changelog
+## Release
+
+Releases and updates changelog.
 
 ```bash
-make changelog
-``` -->
+make release
+```
 
 ## Deploy
 
