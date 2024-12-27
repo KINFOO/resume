@@ -1,8 +1,8 @@
 cv:
   name: Kevin KIN-FOO
-  location: Toulouse, FR
-  email: l@p.in
-  url: https://kinfoo.fr
+  location: Toulouse, France
+  # email: l@p.in
+  # url: https://kinfoo.fr
   # phone: '0123456789'
   social_networks:
     - network: LinkedIn
@@ -11,52 +11,60 @@ cv:
       username: KINFOO
   sections:
     summary:
-      - Mighty text
+      - Fullstack developer with a passion for building scalable and maintainable applications.
     education:
-      - institution: 'Université Paul Sabatier Toulouse III'
-        area: 'Software engineering'
-        degree: 'Master IUP ISI'
-        start_date: '2006-12-31'
-        end_date: '2010-12-31'
-        highlights: []
-      - institution: 'Lycée Ozenne'
-        area: 'Software engineering'
-        degree: 'BTS'
-        start_date: '2004-12-31'
-        end_date: '2006-12-31'
-        highlights: []
+      - institution: Université Paul Sabatier Toulouse III
+        area: Software engineering
+        degree: Master IUP ISI
+        start_date: 2006-09-01
+        end_date: 2010-06-30
+      - institution: Lycée Ozenne, Toulouse
+        area: Software engineering
+        degree: BTS
+        start_date: 2004-09-01
+        end_date: 2006-06-01
     experience:
-      - company: 'Smart & Connective'
-        position: 'Lead Backend Full Stack'
-        location: 'Nice et périphérie'
-        start_date: '2023-10-31'
-        highlights: []
-      - company: 'Sierra Wireless'
-        position: 'Senior Full Stack Front End Developer '
-        location: 'Toulouse, Occitanie, France'
-        start_date: '2021-04-30'
-        end_date: '2023-10-31'
-        highlights: []
-      - company: 'Sierra Wireless'
-        position: 'Développeur front-end'
-        location: 'Toulouse, Occitanie, France'
-        start_date: '2018-12-31'
-        end_date: '2021-04-30'
-        highlights: []
-      - company: 'KDE'
-        position: 'Developer'
-        location: 'Toulouse, Occitanie, France'
-        start_date: '2008-12-31'
-        end_date: '2009-12-31'
-        highlights: []
-  publications: []
-  projects: ['AirVantage']
-  additional_experience_and_awards: ['Oscar']
-  technologies:
-    - label: 'Languages'
-      details: 'yes'
-    - label: 'Software'
-      details: 'very'
+      - company: Smart & Connective
+        position: Lead Backend Full Stack
+        location: Nice area
+        start_date: 2023-10-17
+        highlights:
+          - Backend API developer and Fullstack solution operation
+      - company: Sierra Wireless
+        position: Senior Full Stack Front End Developer
+        location: Toulouse area
+        start_date: 2021-04-30
+        end_date: 2023-10-31
+        highlights:
+          - I was in charge of designing & implement user interfaces for
+            AirVantage's platform, more precisely for the Hybrid Cloud product.
+            This product aimed at signing commands from the browser for devices
+            to verify, then execute. At the same time, I was also part of the
+            team chosen to handle support duty for our cloud products.
+      - company: Sierra Wireless
+        position: Développeur front-end
+        location: Toulouse area, France
+        start_date: 2018-12-31
+        end_date: 2021-04-11
+        highlights:
+          - Operating and deploying the product in a continuous way. As we
+            worked in a flat unique team, I even had the opportunity to fix a
+            design flow of our product, from portal to back end database
+            migration. I joined the 40 members of the AirVantage team. I was in
+            charge of designing interfaces for platform’s portal.
+      - company: KDE
+        position: Developer
+        location: Toulouse, France
+        start_date: 2008-09-01
+        end_date: 2009-06-30
+    projects:
+      - name: Airvantage
+        date: 2018-10-31
+        hightlights:
+          - Airvantage IoT platform
+    technologies:
+      - label: Languages
+        details: Node, Python, Java
 
 design:
   theme: sb2nov
