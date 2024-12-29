@@ -1,17 +1,22 @@
 cv:
   name: Kevin KIN-FOO
+  label_as_an_arbitrary_key: Software Engineer
   location: Toulouse, France
+  photo: img/avatar.png
   # email: l@p.in
-  # url: https://kinfoo.fr
-  # phone: '0123456789'
+  # website: https://kinfoo.fr
+  # phone: 'tel:+33123456789'
   social_networks:
     - network: LinkedIn
       username: kin-foo
     - network: GitHub
       username: KINFOO
   sections:
-    summary:
-      - Fullstack developer with a passion for building scalable and maintainable applications.
+    staff_software_engineer:
+      - |
+        *39 years old* with *driving licence*
+      - |
+        **Languages:** English & French.
     education:
       - institution: Université Paul Sabatier Toulouse III
         area: Software engineering
@@ -28,19 +33,11 @@ cv:
         position: Lead Backend Full Stack
         location: Nice area
         start_date: 2023-10-17
-        highlights:
-          - Backend API developer and Fullstack solution operation
       - company: Sierra Wireless
         position: Senior Full Stack Front End Developer
         location: Toulouse area
         start_date: 2021-04-30
         end_date: 2023-10-31
-        highlights:
-          - I was in charge of designing & implement user interfaces for
-            AirVantage's platform, more precisely for the Hybrid Cloud product.
-            This product aimed at signing commands from the browser for devices
-            to verify, then execute. At the same time, I was also part of the
-            team chosen to handle support duty for our cloud products.
       - company: Sierra Wireless
         position: Développeur front-end
         location: Toulouse area, France
@@ -58,10 +55,32 @@ cv:
         start_date: 2008-09-01
         end_date: 2009-06-30
     projects:
-      - name: Airvantage
+      - name: Smart & Connective - Light BMS, smart building.
+        date: 2023-10-17
+        highlights:
+          - API design and implementation
+          - Fullstack solution operation
+          - Mentoring junior developers
+      - name: Airvantage - IoT platform
         date: 2018-10-31
-        hightlights:
-          - Airvantage IoT platform
+        highlights:
+          - User interface design & implementation user interfaces
+          - Security workflows for
+            [Hybrid Cloud](https://www.sierrawireless.com/router-solutions/alms/\#hybrid-cloud)
+            product, which consists of  signing commands from the browser for
+            devices to verify, then execute.
+          - Curated member of duty team, L3 support duty for our cloud products
+      - name: Koneki LDT
+        date: |
+          [gitlab.eclipse.org 2011](https://gitlab.eclipse.org/eclipse/ldt/ldt)
+        highlights:
+          - Eclipse based [Lua IDE](https://eclipse.dev/ldt/) in Koneki
+            project.
+      - name: Kopete
+        date: 2008-09-01
+        highlights:
+          - Intergration of a protocol in [KDE's multi-protocol instant
+            messaging client](https://apps.kde.org/kopete).
     technologies:
       - label: Languages
         details: Node, Python, Java
