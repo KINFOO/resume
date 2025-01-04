@@ -13,7 +13,7 @@ cv:
   sections:
     staff_software_engineer:
       - |
-        *39 years old* with *driving licence*
+        *39 years old* with *driving license*
       - |
         **Fluent in** English & French.
     experience:
@@ -23,7 +23,7 @@ cv:
         start_date: 2023-10-17
         highlights:
           - API design and implementation
-          - Fullstack solution operation
+          - Full Stack solution operation
           - Mentoring junior developers & code reviews
           - Product integration on secured customer site
           - |
@@ -34,10 +34,10 @@ cv:
         start_date: 2021-04-30
         end_date: 2023-10-31
         highlights:
-          - User interface design & implementation user interfaces
+          - User interface design & implementation
           - Security workflows for
             [Hybrid Cloud](https://www.sierrawireless.com/router-solutions/alms/\#hybrid-cloud)
-            product, which consists of  signing commands from the browser for
+            product, which consists of signing commands from the browser for
             devices to verify, then execute.
           - Curated member of duty team, L3 support duty for our cloud products
           - |
@@ -70,7 +70,7 @@ cv:
         start_date: 2008-09-01
         end_date: 2009-06-30
         highlights:
-          - Intergration of a protocol in KDE's multi-protocol instant
+          - Integration of a protocol in KDE's multi-protocol instant
             messaging client.
           - |
             **Tools:** C++, CMake, Linux, Qt
@@ -88,7 +88,7 @@ cv:
           [Ancyr Academy](https://courses.ancyracademy.fr/p/clean-architecture-nestjs)
       - label: '2022'
         details: |
-          [Doker & Kubernetes](https://kinfoo.fr/certifications/2022_kube.pdf)
+          [Docker & Kubernetes](https://kinfoo.fr/certifications/2022_kube.pdf)
           from [enix.io](https://enix.io/fr/formation-kubernetes/)
 
     education:
