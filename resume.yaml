@@ -1,11 +1,10 @@
 cv:
   name: Kevin KIN-FOO
-  label_as_an_arbitrary_key: Software Engineer
   location: Toulouse, France
   photo: img/avatar.png
   # email: l@p.in
   # website: https://kinfoo.fr
-  # phone: 'tel:+33123456789'
+  # phone: tel:+33123456789
   social_networks:
     - network: LinkedIn
       username: kin-foo
@@ -16,53 +15,24 @@ cv:
       - |
         *39 years old* with *driving licence*
       - |
-        **Languages:** English & French.
-    education:
-      - institution: Université Paul Sabatier Toulouse III
-        area: Software engineering
-        degree: Master IUP ISI
-        start_date: 2006-09-01
-        end_date: 2010-06-30
-      - institution: Lycée Ozenne, Toulouse
-        area: Software engineering
-        degree: BTS
-        start_date: 2004-09-01
-        end_date: 2006-06-01
+        **Fluent in** English & French.
     experience:
       - company: Smart & Connective
-        position: Lead Backend Full Stack
-        location: Nice area
+        position: Lead Backend Full Stack on [Light BMS](https://smartandconnective.com/en/), smart building.
+        location: Nice area, France
         start_date: 2023-10-17
-      - company: Sierra Wireless
-        position: Senior Full Stack Front End Developer
-        location: Toulouse area
-        start_date: 2021-04-30
-        end_date: 2023-10-31
-      - company: Sierra Wireless
-        position: Développeur front-end
-        location: Toulouse area, France
-        start_date: 2018-12-31
-        end_date: 2021-04-11
-        highlights:
-          - Operating and deploying the product in a continuous way. As we
-            worked in a flat unique team, I even had the opportunity to fix a
-            design flow of our product, from portal to back end database
-            migration. I joined the 40 members of the AirVantage team. I was in
-            charge of designing interfaces for platform’s portal.
-      - company: KDE
-        position: Developer
-        location: Toulouse, France
-        start_date: 2008-09-01
-        end_date: 2009-06-30
-    projects:
-      - name: Smart & Connective - Light BMS, smart building.
-        date: 2023-10-17
         highlights:
           - API design and implementation
           - Fullstack solution operation
-          - Mentoring junior developers
-      - name: Airvantage - IoT platform
-        date: 2018-10-31
+          - Mentoring junior developers & code reviews
+          - Product integration on secured customer site
+          - |
+            **Tools:** Node, Next.js, NestJS, AWS, Kubernetes, Git, Gitlab
+      - company: Sierra Wireless
+        position: Senior Full Stack Front-end Developer on [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/) IoT platform
+        location: Toulouse area, France
+        start_date: 2021-04-30
+        end_date: 2023-10-31
         highlights:
           - User interface design & implementation user interfaces
           - Security workflows for
@@ -70,20 +40,69 @@ cv:
             product, which consists of  signing commands from the browser for
             devices to verify, then execute.
           - Curated member of duty team, L3 support duty for our cloud products
-      - name: Koneki LDT
-        date: |
-          [gitlab.eclipse.org 2011](https://gitlab.eclipse.org/eclipse/ldt/ldt)
+          - |
+            **Tools:** Node, React, Docker, AWS, Kubernetes, Git, Kanban,
+            GitHub, Cryptography
+      - company: Sierra Wireless
+        position: Front-end Developer on [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/) IoT platform
+        location: Toulouse area, France
+        start_date: 2018-12-31
+        end_date: 2021-04-11
         highlights:
-          - Eclipse based [Lua IDE](https://eclipse.dev/ldt/) in Koneki
+          - User interface design & implementation user interfaces
+          - IoT hardware integration in platform
+          - |
+            **Tools:** Node, Docker, AWS, Kubernetes, Git, Scrum, GitHub
+      - company: Sierra Wireless
+        position: Open Source Developer on [Lua Development Tools](https://eclipse.dev/ldt/)
+        location: Toulouse area, France
+        start_date: 2011-04-11
+        end_date: 2018-12-30
+        highlights:
+          - Open Source Eclipse based IDE for the Lua language in Koneki
             project.
-      - name: Kopete
-        date: 2008-09-01
+          - |
+            **Tools:** Java, Eclipse, Git, Lua, GitHub, Language theory, Scrum
+      - company: KDE
+        position: |
+          Open Source Developer on [Kopete](https://apps.kde.org/kopete)
+        location: Toulouse, France
+        start_date: 2008-09-01
+        end_date: 2009-06-30
         highlights:
-          - Intergration of a protocol in [KDE's multi-protocol instant
-            messaging client](https://apps.kde.org/kopete).
-    technologies:
-      - label: Languages
-        details: Node, Python, Java
+          - Intergration of a protocol in KDE's multi-protocol instant
+            messaging client.
+          - |
+            **Tools:** C++, CMake, Linux, Qt
+
+    certifications:
+      - label: '2024'
+        details: |
+          [Clean Architecture with React & NextJS](https://kinfoo.fr/certifications/2024_nextjs.pdf)
+          from
+          [Ancyr Academy](https://courses.ancyracademy.fr/p/clean-architecture-nextjs)
+      - label: '2024'
+        details: |
+          [Clean Architecture with NestJS](https://kinfoo.fr/certifications/2024_nestjs.pdf)
+          from
+          [Ancyr Academy](https://courses.ancyracademy.fr/p/clean-architecture-nestjs)
+      - label: '2022'
+        details: |
+          [Doker & Kubernetes](https://kinfoo.fr/certifications/2022_kube.pdf)
+          from [enix.io](https://enix.io/fr/formation-kubernetes/)
+
+    education:
+      - institution: Université Paul Sabatier Toulouse III
+        area: Software Engineering
+        degree: Master IUP ISI
+        start_date: 2006-09-01
+        end_date: 2010-06-30
+
+    hobbies:
+      - label: Badminton
+        details: Club grade training & team captain
+      - label: Fitness
+        details: Journey to the summer body
 
 design:
   theme: sb2nov
