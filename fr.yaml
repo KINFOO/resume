@@ -1,0 +1,144 @@
+cv:
+  name: Kevin KIN-FOO
+  location: Toulouse, France
+  photo: img/avatar.png
+  # email: l@p.in
+  # website: https://kinfoo.fr
+  # phone: tel:+33123456789
+  social_networks:
+    - network: LinkedIn
+      username: kin-foo
+    - network: GitHub
+      username: KINFOO
+  sections:
+    staff_software_engineer:
+      - '*39 ans* & *Permis B*'
+      - '**Anglais & français** courants.'
+    experience:
+      - company: Smart & Connective
+        position: Lead Backend Full Stack sur [Light BMS](https://smartandconnective.com/en/), bâtiment intelligent.
+        location: Nice, France
+        start_date: 2023-10-17
+        highlights:
+          - Conception et implémentation d'API
+          - Opération full stack de la solution
+          - Mentorat des juniors & revues de code
+          - Intégration du produit sur site client sécurisé
+          - |
+            **Outils:** Node, Next.js, NestJS, AWS, Kubernetes, Git, Gitlab
+      - company: Sierra Wireless
+        position: Senior Full Stack Front-end Developer sur [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/)
+        location: Toulouse, France
+        start_date: 2021-04-30
+        end_date: 2023-10-31
+        highlights:
+          - Conception & implémentation d'interfaces utilisateur (UI)
+          - Membre sélectionné de l'équipe d'astreintes de niveau L3 de nos
+            produits cloud
+          - Procédures sécurisées pour le produit
+            [Hybrid Cloud](https://www.sierrawireless.com/router-solutions/alms/\#hybrid-cloud)
+            . Le concept du produit est de signer des commandes depuis le
+            navigateur vers le matériel IoT qui les vérifie avant de les
+            exécuter.
+          - |
+            **Outils:** Node, React, Docker, AWS, Kubernetes, Git, Kanban,
+            GitHub, Chiffrement
+      - company: Sierra Wireless
+        position: Front-end Developer sur la plateforme IoT [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/)
+        location: Toulouse, France
+        start_date: 2018-12-31
+        end_date: 2021-04-11
+        highlights:
+          - Conception & implémentation d'interfaces utilisateur (UI)
+          - Intégration de périphériques IoT dans la plateforme
+          - |
+            **Outils:** Node, Docker, AWS, Kubernetes, Git, Scrum, GitHub
+      - company: Sierra Wireless
+        position: Open Source Developer sur [Lua Development Tools](https://eclipse.dev/ldt/)
+        location: Toulouse, France
+        start_date: 2011-04-11
+        end_date: 2018-12-30
+        highlights:
+          - IDE Open Source basé sur Eclipse pour la langage Lua au sein du
+            projet Koneki
+          - |
+            **Outils:** Java, Eclipse, Git, Lua, GitHub, Théorie des langages,
+            Scrum
+      - company: KDE
+        position: |
+          Open Source Developer sur [Kopete](https://apps.kde.org/kopete)
+        location: Toulouse, France
+        start_date: 2008-09-01
+        end_date: 2009-06-30
+        highlights:
+          - Intégration d'un protocole le client de messagerie instantanée
+            multi-protocoles de KDE
+          - |
+            **Outils:** C++, CMake, Linux, Qt
+
+    certifications:
+      - label: '2024'
+        details: |
+          [Clean Architecture avec React & NextJS](https://kinfoo.fr/certifications/2024_nextjs.pdf)
+          par
+          [Ancyr Academy](https://courses.ancyracademy.fr/p/clean-architecture-nextjs)
+      - label: '2024'
+        details: |
+          [Clean Architecture avec NestJS](https://kinfoo.fr/certifications/2024_nestjs.pdf)
+          par
+          [Ancyr Academy](https://courses.ancyracademy.fr/p/clean-architecture-nestjs)
+      - label: '2022'
+        details: |
+          [Doker & Kubernetes](https://kinfoo.fr/certifications/2022_kube.pdf)
+          par [enix.io](https://enix.io/fr/formation-kubernetes/)
+
+    education:
+      - institution: Université Paul Sabatier Toulouse III
+        area: Software Engineering
+        degree: Master IUP ISI
+        start_date: 2006-09-01
+        end_date: 2010-06-30
+
+    loisirs:
+      - label: Badminton
+        details: Club grade training & team captain
+      - label: Fitness
+        details: Journey to the summer body
+
+design:
+  theme: sb2nov
+locale_catalog:
+  page_numbering_style: NAME - Page PAGE_NUMBER sur TOTAL_PAGES
+  last_updated_date_style: Mis à jour en TODAY
+  date_style: MONTH_ABBREVIATION YEAR
+  month: mois
+  months: mois
+  year: an
+  years: années
+  present: présent
+  abbreviations_for_months:
+    - Jan
+    - Fev
+    - Mar
+    - Avr
+    - Mai
+    - Juin
+    - Juil
+    - Aoû
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - Janvier
+    - Février
+    - Mars
+    - Avril
+    - Mai
+    - Juin
+    - Juillet
+    - Août
+    - Septembre
+    - Octobre
+    - Novembre
+    - Décembre
