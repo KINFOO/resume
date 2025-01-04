@@ -1,4 +1,4 @@
-#  (2024-12-27)
+#  (2025-01-04)
 
 
 ### ci
@@ -9,11 +9,14 @@
 * faster generation ([342b4f0](https://github.com/KINFOO/resume/commit/342b4f0d04e360edd53a19c896f787ba57878a89))
 * generate archive ([c1212e8](https://github.com/KINFOO/resume/commit/c1212e8c461260fd062e3b53eda2cc48cef8e06b))
 * release 2024-12-26_2355 ([318a694](https://github.com/KINFOO/resume/commit/318a694e3736ba580a897619eb34226febdd3585))
+* release 2024-12-27_1412 ([798941a](https://github.com/KINFOO/resume/commit/798941abc1bf700fe947cba0727f1353a650f50e))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
 
 * add build status badge ([2c8b188](https://github.com/KINFOO/resume/commit/2c8b188a03e472319d2fa5a94e9f4c18e5f6377c))
+* first review ([d23c43b](https://github.com/KINFOO/resume/commit/d23c43b9f124c1b16f2305ac9e4eed037e4c6b10))
+* more data in resume ([d8ba4e6](https://github.com/KINFOO/resume/commit/d8ba4e6a7392bd1c6bd1eebc2ad790796beda521))
 * more meat on resume ([7a29892](https://github.com/KINFOO/resume/commit/7a29892d1b47e7bbcd824a983a8b2756afba8c43))
 * setup ([083cbdf](https://github.com/KINFOO/resume/commit/083cbdf1c2ccb883927c368f0df45d26fe2a6f13))
 
