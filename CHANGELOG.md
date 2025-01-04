@@ -8,8 +8,7 @@
 * deploy ([055aab4](https://github.com/KINFOO/resume/commit/055aab444bd8a81c9760db8e7e9b561110ccc083))
 * faster generation ([342b4f0](https://github.com/KINFOO/resume/commit/342b4f0d04e360edd53a19c896f787ba57878a89))
 * generate archive ([c1212e8](https://github.com/KINFOO/resume/commit/c1212e8c461260fd062e3b53eda2cc48cef8e06b))
-* release 2024-12-26_2355 ([318a694](https://github.com/KINFOO/resume/commit/318a694e3736ba580a897619eb34226febdd3585))
-* release 2024-12-27_1412 ([798941a](https://github.com/KINFOO/resume/commit/798941abc1bf700fe947cba0727f1353a650f50e))
+* imporve release ([92c09bc](https://github.com/KINFOO/resume/commit/92c09bca1ea1874a064f577e541cde583ce960e5))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
@@ -25,6 +24,10 @@
 * creating test and deployment workflows ([e15dcd1](https://github.com/KINFOO/resume/commit/e15dcd1a5db22537796925bb8c543b5b87f682b3))
 * remove archive generation ([861fa3c](https://github.com/KINFOO/resume/commit/861fa3c11c8af8af0ea0762e83a8d5adceff5122))
 * use `pipx` in makefile ([d77a1aa](https://github.com/KINFOO/resume/commit/d77a1aafce73fc92346da8896c0e1fa2f9748dbc))
+
+### test
+
+* check links in generated html ([a117f7e](https://github.com/KINFOO/resume/commit/a117f7e35f089ff5600ccda3fda9afbc6cb3ea92))
 
 
 

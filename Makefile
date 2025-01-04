@@ -8,7 +8,7 @@ resume:
 	pipx run rendercv render \
 		--dont-generate-png \
 		--output-folder-name ${BUILD_FOLDER} \
-		resume.yaml
+		en.yaml
 
 release: resume
 	npx conventional-changelog-cli -p eslint -i CHANGELOG.md -s -r 0
@@ -21,6 +21,8 @@ release: resume
 
 	gh release create v${CHANGELOG_VERSION} \
 		--title "v${CHANGELOG_VERSION}" \
+		--generate-notes \
+		--latest \
 		build/*.pdf \
 		build/*.html
 
