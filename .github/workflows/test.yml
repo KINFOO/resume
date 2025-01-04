@@ -14,3 +14,16 @@ jobs:
 
       - name: parse
         run: make resume
+
+      - uses: anishathalye/proof-html@v2
+        name: check html links
+        with:
+          directory: ./build
+          connect_timeout: 5
+          retries: 1
+          check_css: false
+          check_favicon: false
+          check_opengraph: false
+          ignore_url: |
+            https://linkedin.com/in/kin-foo
+            https://enix.io/fr/formation-kubernetes/
