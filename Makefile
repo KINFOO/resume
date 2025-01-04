@@ -43,13 +43,8 @@ release: resume
 deploy: resume
 	curl --user ${FTP_USER}:${FTP_PASSWORD} \
 		--ssl-reqd \
-		--upload-file build/*.html \
-		ftp://${FTP_HOST}/data/cv.html
-
-	curl --user ${FTP_USER}:${FTP_PASSWORD} \
-		--ssl-reqd \
-		--upload-file build/*.pdf \
-		ftp://${FTP_HOST}/data/cv.pdf
+		--upload-file build/kevin_kin-foo_* \
+		ftp://${FTP_HOST}/data/
 
 clean:
 	rm -fvr ${BUILD_FOLDER}

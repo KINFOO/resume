@@ -22,5 +22,7 @@ jobs:
         with:
           name: resumes
           path: |
-            build/*.pdf
-            build/*.html
+            build/kevin_kin-foo_en.html
+            build/kevin_kin-foo_en.pdf
+            build/kevin_kin-foo_fr.html
+            build/kevin_kin-foo_fr.pdf
