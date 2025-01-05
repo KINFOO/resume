@@ -101,9 +101,9 @@ cv:
 
     loisirs:
       - label: Badminton
-        details: Club grade training & team captain
-      - label: Fitness
-        details: Journey to the summer body
+        details: Entraînement en club & captaine d'équipe
+      - label: Musculation
+        details: Parce que l'été arrive
 
 design:
   theme: sb2nov

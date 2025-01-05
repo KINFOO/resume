@@ -37,7 +37,8 @@ release: resume
 		--title "v${CHANGELOG_VERSION}" \
 		--generate-notes \
 		--latest \
-		build/kevin_kin-foo_*
+		build/kevin_kin-foo_*.pdf \
+		build/kevin_kin-foo_*.html
 
 deploy: resume
 	curl --user ${FTP_USER}:${FTP_PASSWORD} \
