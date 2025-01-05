@@ -1,4 +1,4 @@
-#  (2025-01-04)
+#  (2025-01-05)
 
 
 ### ci
@@ -6,12 +6,14 @@
 * adding `make release` ([7a3680c](https://github.com/KINFOO/resume/commit/7a3680c355c5092ccb0d8bd0204aa1d5c9a1dbe8))
 * archive step ([863fed5](https://github.com/KINFOO/resume/commit/863fed516c32de8d4bf4d3c75f35b9117e79e282))
 * deploy ([055aab4](https://github.com/KINFOO/resume/commit/055aab444bd8a81c9760db8e7e9b561110ccc083))
+* deploy french resume ([edacbf7](https://github.com/KINFOO/resume/commit/edacbf7981bb706b4e91908af567288142c95b4e))
 * faster generation ([342b4f0](https://github.com/KINFOO/resume/commit/342b4f0d04e360edd53a19c896f787ba57878a89))
 * generate archive ([c1212e8](https://github.com/KINFOO/resume/commit/c1212e8c461260fd062e3b53eda2cc48cef8e06b))
 * imporve release ([60af4cf](https://github.com/KINFOO/resume/commit/60af4cfead4e7df23e0655cc84f4aa28575f2775))
 * release 2024-12-26_2355 ([318a694](https://github.com/KINFOO/resume/commit/318a694e3736ba580a897619eb34226febdd3585))
 * release 2024-12-27_1412 ([798941a](https://github.com/KINFOO/resume/commit/798941abc1bf700fe947cba0727f1353a650f50e))
 * release 2025-01-04_0123 ([c7153eb](https://github.com/KINFOO/resume/commit/c7153eb51c6f066df24879ec379e36226a846dad))
+* release 2025-01-04_1647 ([1a447b7](https://github.com/KINFOO/resume/commit/1a447b73347ee776752ec57b232446379307b215))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
@@ -21,6 +23,14 @@
 * more data in resume ([d8ba4e6](https://github.com/KINFOO/resume/commit/d8ba4e6a7392bd1c6bd1eebc2ad790796beda521))
 * more meat on resume ([7a29892](https://github.com/KINFOO/resume/commit/7a29892d1b47e7bbcd824a983a8b2756afba8c43))
 * setup ([083cbdf](https://github.com/KINFOO/resume/commit/083cbdf1c2ccb883927c368f0df45d26fe2a6f13))
+
+### feat
+
+* french resume ([109bab6](https://github.com/KINFOO/resume/commit/109bab6876e835b719b7a934a4ed9f5c9ca4a71b))
+
+### fix
+
+* english spelling ([ae58656](https://github.com/KINFOO/resume/commit/ae58656f44552e9e1f0df929049a105f0ade6760))
 
 ### refactor
 
