@@ -14,6 +14,7 @@
 * release 2024-12-27_1412 ([798941a](https://github.com/KINFOO/resume/commit/798941abc1bf700fe947cba0727f1353a650f50e))
 * release 2025-01-04_0123 ([c7153eb](https://github.com/KINFOO/resume/commit/c7153eb51c6f066df24879ec379e36226a846dad))
 * release 2025-01-04_1647 ([1a447b7](https://github.com/KINFOO/resume/commit/1a447b73347ee776752ec57b232446379307b215))
+* release 2025-01-05_0108 ([3b2b3a6](https://github.com/KINFOO/resume/commit/3b2b3a6673d5aca826d932780d13a47faeb555ba))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
@@ -37,6 +38,10 @@
 * creating test and deployment workflows ([e15dcd1](https://github.com/KINFOO/resume/commit/e15dcd1a5db22537796925bb8c543b5b87f682b3))
 * remove archive generation ([861fa3c](https://github.com/KINFOO/resume/commit/861fa3c11c8af8af0ea0762e83a8d5adceff5122))
 * use `pipx` in makefile ([d77a1aa](https://github.com/KINFOO/resume/commit/d77a1aafce73fc92346da8896c0e1fa2f9748dbc))
+
+### task
+
+* french hobbies ([526b408](https://github.com/KINFOO/resume/commit/526b408b69d72f60b84b4db33e9948b4edf00631))
 
 ### test
 
