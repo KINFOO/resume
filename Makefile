@@ -7,7 +7,7 @@ CHANGELOG_VERSION=`date +%F_%H%M`
 resume: resume-en resume-fr
 
 resume-en:
-	pipx run rendercv render \
+	pipx run "rendercv[full]" render \
 		--dont-generate-png \
 		--output-folder-name ${BUILD_FOLDER} \
 		--pdf-path ${BUILD_FOLDER}/kevin_kin-foo_en.pdf \
@@ -16,7 +16,7 @@ resume-en:
 		en.yaml
 
 resume-fr:
-	pipx run rendercv render \
+	pipx run "rendercv[full]" render \
 		--dont-generate-png \
 		--output-folder-name ${BUILD_FOLDER} \
 		--pdf-path ${BUILD_FOLDER}/kevin_kin-foo_fr.pdf \

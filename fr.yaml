@@ -1,7 +1,7 @@
 cv:
   name: Kevin KIN-FOO
   location: Toulouse, France
-  photo: img/avatar.png
+  photo: img/profile_picture.jpg
   # email: l@p.in
   # website: https://kinfoo.fr
   # phone: tel:+33123456789
@@ -15,23 +15,37 @@ cv:
       - '*39 ans* & *Permis B*'
       - '**Anglais & français** courants.'
     experience:
+      - company: ForgeTheWeb
+        position: Freelance MVP builder
+        location: Toulouse, France
+        start_date: 2025-01-29
+        highlights:
+          - Mise en place de procédures d'automatisation DevOps
+          - Intégration continue
+          - Déploiement continu
+          - Création & mise en production du produit via Docker
+          - >
+            **Outils:** Git, Ruby, Ruby on Rails, Docker, Docker compose, Git,
+            GitHub, GitHub Action, Kanban, Heroku
       - company: Smart & Connective
         position: Lead Backend Full Stack sur [Light BMS](https://smartandconnective.com/en/), bâtiment intelligent.
         location: Nice, France
         start_date: 2023-10-17
+        end_date: 2024-06-15
         highlights:
           - Conception et implémentation d'API
           - Opération full stack de la solution
           - Mentorat des juniors & revues de code
           - Intégration du produit sur site client sécurisé
-          - |
+          - >
             **Outils:** Node, Next.js, NestJS, AWS, Kubernetes, Git, Gitlab
-      - company: Sierra Wireless
+      - company: Sierra Wireless | Semtech
         position: Senior Full Stack Front-end Developer sur [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/)
         location: Toulouse, France
         start_date: 2021-04-30
         end_date: 2023-10-31
         highlights:
+          - Communication orale et ecrite **en anglais**
           - Conception & implémentation d'interfaces utilisateur (UI)
           - Membre sélectionné de l'équipe d'astreintes de niveau L3 de nos
             produits cloud
@@ -40,10 +54,10 @@ cv:
             . Le concept du produit est de signer des commandes depuis le
             navigateur vers le matériel IoT qui les vérifie avant de les
             exécuter.
-          - |
+          - >
             **Outils:** Node, React, Docker, AWS, Kubernetes, Git, Kanban,
             GitHub, Chiffrement
-      - company: Sierra Wireless
+      - company: Sierra Wireless | Semtech
         position: Front-end Developer sur la plateforme IoT [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/)
         location: Toulouse, France
         start_date: 2018-12-31
@@ -51,9 +65,9 @@ cv:
         highlights:
           - Conception & implémentation d'interfaces utilisateur (UI)
           - Intégration de périphériques IoT dans la plateforme
-          - |
+          - >
             **Outils:** Node, Docker, AWS, Kubernetes, Git, Scrum, GitHub
-      - company: Sierra Wireless
+      - company: Sierra Wireless | Semtech
         position: Open Source Developer sur [Lua Development Tools](https://eclipse.dev/ldt/)
         location: Toulouse, France
         start_date: 2011-04-11
@@ -61,11 +75,11 @@ cv:
         highlights:
           - IDE Open Source basé sur Eclipse pour la langage Lua au sein du
             projet Koneki
-          - |
+          - >
             **Outils:** Java, Eclipse, Git, Lua, GitHub, Théorie des langages,
             Scrum
       - company: KDE
-        position: |
+        position: >
           Open Source Developer sur [Kopete](https://apps.kde.org/kopete)
         location: Toulouse, France
         start_date: 2008-09-01
@@ -73,22 +87,22 @@ cv:
         highlights:
           - Intégration d'un protocole le client de messagerie instantanée
             multi-protocoles de KDE
-          - |
+          - >
             **Outils:** C++, CMake, Linux, Qt
 
     certifications:
       - label: '2024'
-        details: |
+        details: >
           [Clean Architecture avec React & NextJS](https://kinfoo.fr/certifications/2024_nextjs.pdf)
           par
           [Ancyr Academy](https://courses.ancyracademy.fr/p/clean-architecture-nextjs)
       - label: '2024'
-        details: |
+        details: >
           [Clean Architecture avec NestJS](https://kinfoo.fr/certifications/2024_nestjs.pdf)
           par
           [Ancyr Academy](https://courses.ancyracademy.fr/p/clean-architecture-nestjs)
       - label: '2022'
-        details: |
+        details: >
           [Doker & Kubernetes](https://kinfoo.fr/certifications/2022_kube.pdf)
           par [enix.io](https://enix.io/fr/formation-kubernetes/)
 
@@ -107,10 +121,11 @@ cv:
 
 design:
   theme: sb2nov
-locale_catalog:
-  page_numbering_style: NAME - Page PAGE_NUMBER sur TOTAL_PAGES
-  last_updated_date_style: Mis à jour en TODAY
-  date_style: MONTH_ABBREVIATION YEAR
+locale:
+  language: fr
+  page_numbering_template: NAME - Page PAGE_NUMBER sur TOTAL_PAGES
+  last_updated_date_template: Mis à jour en TODAY
+  date_template: MONTH_ABBREVIATION YEAR
   month: mois
   months: mois
   year: an
