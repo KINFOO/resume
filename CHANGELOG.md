@@ -1,4 +1,4 @@
-#  (2025-01-05)
+#  (2025-02-15)
 
 
 ### ci
@@ -15,6 +15,7 @@
 * release 2025-01-04_0123 ([c7153eb](https://github.com/KINFOO/resume/commit/c7153eb51c6f066df24879ec379e36226a846dad))
 * release 2025-01-04_1647 ([1a447b7](https://github.com/KINFOO/resume/commit/1a447b73347ee776752ec57b232446379307b215))
 * release 2025-01-05_0108 ([3b2b3a6](https://github.com/KINFOO/resume/commit/3b2b3a6673d5aca826d932780d13a47faeb555ba))
+* release 2025-01-05_0122 ([2fb8ca7](https://github.com/KINFOO/resume/commit/2fb8ca78a91ffc39c90df9de43ac8fb11c2d22a3))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
@@ -28,6 +29,8 @@
 ### feat
 
 * french resume ([109bab6](https://github.com/KINFOO/resume/commit/109bab6876e835b719b7a934a4ed9f5c9ca4a71b))
+* update position at forgetheweb ([872dfd9](https://github.com/KINFOO/resume/commit/872dfd9b27c21c7d9553c8890ff91ddeac8ffd2c))
+* updating resumes ([01fdbc2](https://github.com/KINFOO/resume/commit/01fdbc25c44d7f9e94ab7e14036140ca5eeece6a))
 
 ### fix
 
