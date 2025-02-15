@@ -14,9 +14,10 @@ cv:
     staff_software_engineer:
       - '*39 ans* & *Permis B*'
       - '**Anglais & français** courants.'
+
     experience:
       - company: ForgeTheWeb
-        position: Freelance MVP builder
+        position: MVP builder Architect | Freelance
         location: Toulouse, France
         start_date: 2025-01-29
         highlights:
@@ -45,7 +46,6 @@ cv:
         start_date: 2021-04-30
         end_date: 2023-10-31
         highlights:
-          - Communication orale et ecrite **en anglais**
           - Conception & implémentation d'interfaces utilisateur (UI)
           - Membre sélectionné de l'équipe d'astreintes de niveau L3 de nos
             produits cloud
@@ -54,6 +54,7 @@ cv:
             . Le concept du produit est de signer des commandes depuis le
             navigateur vers le matériel IoT qui les vérifie avant de les
             exécuter.
+          - Communication orale et ecrite **en anglais**
           - >
             **Outils:** Node, React, Docker, AWS, Kubernetes, Git, Kanban,
             GitHub, Chiffrement
@@ -65,6 +66,7 @@ cv:
         highlights:
           - Conception & implémentation d'interfaces utilisateur (UI)
           - Intégration de périphériques IoT dans la plateforme
+          - Communication orale et ecrite **en anglais**
           - >
             **Outils:** Node, Docker, AWS, Kubernetes, Git, Scrum, GitHub
       - company: Sierra Wireless | Semtech
@@ -75,6 +77,7 @@ cv:
         highlights:
           - IDE Open Source basé sur Eclipse pour la langage Lua au sein du
             projet Koneki
+          - Communication orale et ecrite **en anglais**
           - >
             **Outils:** Java, Eclipse, Git, Lua, GitHub, Théorie des langages,
             Scrum

@@ -14,9 +14,10 @@ cv:
     staff_software_engineer:
       - '*39 years old* with *driving license*'
       - '**Fluent in** English & French.'
+
     experience:
       - company: ForgeTheWeb
-        position: Freelance MVP builder
+        position: MVP builder Architect | Freelance
         location: Toulouse, France
         start_date: 2025-01-29
         highlights:
