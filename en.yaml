@@ -2,8 +2,8 @@ cv:
   name: Kevin KIN-FOO
   location: Toulouse, France
   photo: img/profile_picture.jpg
+  website: https://kinfoo.fr
   # email: l@p.in
-  # website: https://kinfoo.fr
   # phone: tel:+33123456789
   social_networks:
     - network: LinkedIn
@@ -12,7 +12,7 @@ cv:
       username: KINFOO
   sections:
     staff_software_engineer:
-      - '*39 years old* with *driving license*'
+      - '**Driving license*'
       - '**Fluent in** English & French.'
 
     experience:
@@ -22,6 +22,7 @@ cv:
         start_date: 2025-01-29
         highlights:
           - DevOps processes setup
+          - Training team and actual use Test Driven Development
           - Continuous Integration
           - Continuous Delivery
           - Building & Deploying product using Docker
