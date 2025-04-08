@@ -12,7 +12,7 @@ cv:
       username: KINFOO
   sections:
     staff_software_engineer:
-      - '**Driving license*'
+      - '*Driving license*'
       - '**Fluent in** English & French.'
 
     experience:
