@@ -25,10 +25,10 @@ cv:
           - Training team and actual use Test Driven Development
           - Continuous Integration
           - Continuous Delivery
-          - Building & Deploying product using Docker
+          - Product orchestration with Kubernetes
           - >
-            **Tools:** Git, Ruby, Ruby on Rails, Docker, Docker compose, Git,
-            GitHub, GitHub Action, Kanban, Heroku
+            **Tools:**  Git, Ruby on Rails, Kubernetes, Docker, Helm,
+            Docker compose, Git, GitHub, GitHub Action, Kanban, OVH, Heroku
       - company: Smart & Connective
         position: Lead Backend Full Stack on [Light BMS](https://smartandconnective.com/en/), smart building.
         location: Nice area, France
