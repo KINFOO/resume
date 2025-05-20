@@ -1,4 +1,4 @@
-#  (2025-04-29)
+#  (2025-05-20)
 
 
 ### ci
@@ -19,6 +19,7 @@
 * release 2025-02-16_0000 ([3013a63](https://github.com/KINFOO/resume/commit/3013a63815ed991417c50b3b38a50e143d6da76c))
 * release 2025-04-08_1146 ([04b7b64](https://github.com/KINFOO/resume/commit/04b7b645c554d94a4babc84f32fc3d4035a9ad5d))
 * release 2025-04-08_1156 ([c8d68c8](https://github.com/KINFOO/resume/commit/c8d68c8ad44f079034c8d5f7de38b9d9f9262c5a))
+* release 2025-04-29_1801 ([18f29da](https://github.com/KINFOO/resume/commit/18f29daa82db0773b964b0566464ff53d2abd4f5))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
@@ -32,6 +33,7 @@
 ### feat
 
 * add test driven development ([fab2b00](https://github.com/KINFOO/resume/commit/fab2b00d9614fa0ecd0b65646328be9a67f12052))
+* adding experience and changing forgetheweb position ([79aabb8](https://github.com/KINFOO/resume/commit/79aabb850f9ccf2b23338efecbb0a62292d2ecbf))
 * adding kube experience ([f73d695](https://github.com/KINFOO/resume/commit/f73d695d93826190258fadf8fd8b2e8e8b4458b8))
 * french resume ([109bab6](https://github.com/KINFOO/resume/commit/109bab6876e835b719b7a934a4ed9f5c9ca4a71b))
 * update position at forgetheweb ([872dfd9](https://github.com/KINFOO/resume/commit/872dfd9b27c21c7d9553c8890ff91ddeac8ffd2c))
