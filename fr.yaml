@@ -12,12 +12,13 @@ cv:
       username: KINFOO
   sections:
     staff_software_engineer:
+      - 15 ans d'expérience
       - '*Permis B*'
       - '**Anglais & français** courants.'
 
     experience:
       - company: ForgeTheWeb
-        position: MVP builder Architect | Freelance
+        position: Lead Backend Full Stack Architect | Freelance
         location: Toulouse, France
         start_date: 2025-01-29
         highlights:
