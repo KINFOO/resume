@@ -11,8 +11,7 @@ cv:
     - network: GitHub
       username: KINFOO
   sections:
-    staff_software_engineer:
-      - 15 ans d'expérience
+    senior_software_engineer_|_15_ans_d'expérience:
       - '*Permis B*'
       - '**Anglais & français** courants.'
 

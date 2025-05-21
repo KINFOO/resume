@@ -11,8 +11,7 @@ cv:
     - network: GitHub
       username: KINFOO
   sections:
-    staff_software_engineer:
-      - 15 years of experience
+    senior_software_engineer_|_15_years_of_experience:
       - '*Driving license*'
       - '**Fluent in** English & French.'
 
