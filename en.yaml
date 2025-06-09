@@ -3,8 +3,8 @@ cv:
   location: Toulouse, France
   photo: img/profile_picture.jpg
   website: https://kinfoo.fr
-  email: l@p.in
-  phone: tel:+33123456789
+  # email: l@p.in
+  # phone: tel:+33123456789
   social_networks:
     - network: LinkedIn
       username: kin-foo
