@@ -22,6 +22,7 @@
 * release 2025-04-29_1801 ([18f29da](https://github.com/KINFOO/resume/commit/18f29daa82db0773b964b0566464ff53d2abd4f5))
 * release 2025-05-20_1504 ([ed4864d](https://github.com/KINFOO/resume/commit/ed4864dad552c8275c9ecea4b6e10d2c3291b49e))
 * release 2025-05-21_0931 ([9333b30](https://github.com/KINFOO/resume/commit/9333b30c3350014e7bc8d01102c080f95e62fc35))
+* release 2025-06-09_2338 ([6d3d743](https://github.com/KINFOO/resume/commit/6d3d7433055594d2834be22c9e5aadb8bc5df901))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
@@ -46,6 +47,7 @@
 
 * english spelling ([ae58656](https://github.com/KINFOO/resume/commit/ae58656f44552e9e1f0df929049a105f0ade6760))
 * formating in english ([7895bc5](https://github.com/KINFOO/resume/commit/7895bc583c4f4be94ad7539bd320074b05e7b2f0))
+* wrong values ([a5b82ec](https://github.com/KINFOO/resume/commit/a5b82ec1050eb0c4c1875ef587317e9896670aeb))
 
 ### refactor
 
