@@ -1,4 +1,4 @@
-#  (2025-05-21)
+#  (2025-06-09)
 
 
 ### ci
@@ -21,6 +21,7 @@
 * release 2025-04-08_1156 ([c8d68c8](https://github.com/KINFOO/resume/commit/c8d68c8ad44f079034c8d5f7de38b9d9f9262c5a))
 * release 2025-04-29_1801 ([18f29da](https://github.com/KINFOO/resume/commit/18f29daa82db0773b964b0566464ff53d2abd4f5))
 * release 2025-05-20_1504 ([ed4864d](https://github.com/KINFOO/resume/commit/ed4864dad552c8275c9ecea4b6e10d2c3291b49e))
+* release 2025-05-21_0931 ([9333b30](https://github.com/KINFOO/resume/commit/9333b30c3350014e7bc8d01102c080f95e62fc35))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
@@ -51,6 +52,10 @@
 * creating test and deployment workflows ([e15dcd1](https://github.com/KINFOO/resume/commit/e15dcd1a5db22537796925bb8c543b5b87f682b3))
 * remove archive generation ([861fa3c](https://github.com/KINFOO/resume/commit/861fa3c11c8af8af0ea0762e83a8d5adceff5122))
 * use `pipx` in makefile ([d77a1aa](https://github.com/KINFOO/resume/commit/d77a1aafce73fc92346da8896c0e1fa2f9748dbc))
+
+### refactoring
+
+* more on backend ([daf9020](https://github.com/KINFOO/resume/commit/daf90201f99cd32d14bb9b7361e31e45964f8f34))
 
 ### task
 
