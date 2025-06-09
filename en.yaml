@@ -3,8 +3,8 @@ cv:
   location: Toulouse, France
   photo: img/profile_picture.jpg
   website: https://kinfoo.fr
-  # email: l@p.in
-  # phone: tel:+33123456789
+  email: l@p.in
+  phone: tel:+33123456789
   social_networks:
     - network: LinkedIn
       username: kin-foo
@@ -17,54 +17,67 @@ cv:
 
     experience:
       - company: ForgeTheWeb
-        position: Lead Backend Full Stack Architect | Freelance
+        position: Lead Backend Full Stack | Freelance
         location: Toulouse, France
         start_date: 2025-01-29
         highlights:
-          - DevOps processes setup
-          - Training team and actual use Test Driven Development
-          - Continuous Integration
-          - Continuous Delivery
-          - Product orchestration with Kubernetes
+          - Training team and actual use of Test Driven Development
+          - Design and review features
+          - Setting up unit and integration tests
+          - Setting up *Site Reliability Engineering* processes
+          - Setting up & maintain *Continuous Integration*
+          - Setting up & maintain *Continuous Delivery*
           - >
-            **Tools:**  Git, Ruby on Rails, Kubernetes, Docker, Helm,
-            Docker compose, Git, GitHub, GitHub Action, Kanban, OVH, Heroku
+            Initiate & operrate production and pre-production instances from
+            scratch
+          - Containerize production with `Docker`
+          - Product orchestration with `Kubernetes`
+          - >
+            **Tools:** Ruby on Rails, Kubernetes, Docker, Helm, Docker compose,
+            Git, GitHub, GitHub Action, Kanban, OVH, Heroku
       - company: Smart & Connective
         position: Lead Backend Full Stack on [Light BMS](https://smartandconnective.com/en/), smart building.
-        location: Nice area, France
+        location: Nice area, France | *Full Remote*
         start_date: 2023-10-17
         end_date: 2024-06-15
         highlights:
-          - API design and implementation
+          - RESTful API design & implementation
+          - Backend and Front-end code reviews
           - Full Stack solution operation
-          - Mentoring junior developers & code reviews
-          - Product integration on secured customer site
+          - Mentoring junior developers
           - >
-            **Tools:** Node, Next.js, NestJS, AWS, Kubernetes, Git, Gitlab
+            *Mob programming* product integration on secure customer site
+          - >
+            **Tools:** Typescript, Next.js, NestJS, AWS, Kubernetes, Git,
+            Gitlab, MySQL, ElasticSearch
       - company: Sierra Wireless | Semtech
-        position: Senior Full Stack Front-end Developer on [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/) IoT platform
+        position: Senior Full Stack Developer on [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/) IoT platform
         location: Toulouse area, France
         start_date: 2021-04-30
         end_date: 2023-10-31
         highlights:
           - User interface design & implementation
+          - Curated member of duty team, L3 support duty for our cloud products
           - Security workflows for
             [Hybrid Cloud](https://www.sierrawireless.com/router-solutions/alms/\#hybrid-cloud)
             product, which consists of signing commands from the browser for
             devices to verify, then execute.
-          - Curated member of duty team, L3 support duty for our cloud products
           - All this **in English**
           - >
-            **Tools:** Node, React, Docker, AWS, Kubernetes, Git, Kanban,
-            GitHub, Cryptography
+            **Tools:** Typescript, React, Docker, AWS, Kubernetes, Git, Kanban,
+            GitHub, Cryptography, Figma
       - company: Sierra Wireless | Semtech
-        position: Front-end Developer on [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/) IoT platform
+        position: Full Stack Developer on [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/) IoT platform
         location: Toulouse area, France
         start_date: 2018-12-31
         end_date: 2021-04-11
         highlights:
           - User interface design & implementation user interfaces
+          - >
+            Desgin and operation of scheduled backend jobs mathing hardware
+            identifiers to IMEIs
           - IoT hardware integration in platform
+          - CI server maintenance
           - All this **in English**
           - >
             **Tools:** Node, Docker, AWS, Kubernetes, Git, Scrum, GitHub

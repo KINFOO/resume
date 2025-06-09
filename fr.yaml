@@ -17,32 +17,42 @@ cv:
 
     experience:
       - company: ForgeTheWeb
-        position: Lead Backend Full Stack Architect | Freelance
+        position: Lead Backend Full Stack | Freelance
         location: Toulouse, France
         start_date: 2025-01-29
         highlights:
-          - Mise en place de procédures d'automatisation DevOps
           - Formation de l'équipe et application du Test Driven Development
-          - Intégration continue
-          - Déploiement continu
-          - Orchestration du produit avec Kubernetes
+          - Développement et revue de code des fonctionnalités
+          - Mise en place des tests unitaires et d'intégration
+          - Mise en place des procédures de *Site Reliability Engineering*
+          - Mise en place de l'*intégration continue*
+          - Mise en place du *déploiement continu*
           - >
-            **Outils:** Git, Ruby on Rails, Kubernetes, Docker, Helm,
-            Docker compose, Git, GitHub, GitHub Action, Kanban, OVH, Heroku
+            Création, mise en place et opération des instances de production et
+            de pré-production
+          - Containerisation avec du produit avec `Docker`
+          - Orchestration du produit avec `Kubernetes`
+          - >
+            **Outils:** Ruby on Rails, Kubernetes, Docker, Helm, Docker compose,
+            Git, GitHub, GitHub Action, Kanban, OVH, Heroku
       - company: Smart & Connective
         position: Lead Backend Full Stack sur [Light BMS](https://smartandconnective.com/en/), bâtiment intelligent.
-        location: Nice, France
+        location: Nice, France | *Télétravail*
         start_date: 2023-10-17
         end_date: 2024-06-15
         highlights:
-          - Conception et implémentation d'API
+          - Conception et implémentation d'API REST
+          - Revues du code des fonctionnalités du Backend et du Frontend
           - Opération full stack de la solution
-          - Mentorat des juniors & revues de code
-          - Intégration du produit sur site client sécurisé
+          - Mentorat de développeurs juniors
           - >
-            **Outils:** Node, Next.js, NestJS, AWS, Kubernetes, Git, Gitlab
+            Intégration du produit en *mob programming* avec un grand compte
+            sur son site sécurisé
+          - >
+            **Outils:** Typescript, Next.js, NestJS, AWS, Kubernetes, Git,
+            Gitlab, MySQL, ElasticSearch
       - company: Sierra Wireless | Semtech
-        position: Senior Full Stack Front-end Developer sur [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/)
+        position: Senior Full Stack Developer sur [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/)
         location: Toulouse, France
         start_date: 2021-04-30
         end_date: 2023-10-31
@@ -57,16 +67,20 @@ cv:
             exécuter.
           - Communication orale et ecrite **en anglais**
           - >
-            **Outils:** Node, React, Docker, AWS, Kubernetes, Git, Kanban,
-            GitHub, Chiffrement
+            **Outils:** Typescript, React, Docker, AWS, Kubernetes, Git, Kanban,
+            GitHub, Chiffrement, Figma
       - company: Sierra Wireless | Semtech
-        position: Front-end Developer sur la plateforme IoT [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/)
+        position: Full Stack Developer sur la plateforme IoT [AirVantage](https://www.sierrawireless.com/iot-services/smart-connectivity/iot-cloud-platform/)
         location: Toulouse, France
         start_date: 2018-12-31
         end_date: 2021-04-11
         highlights:
           - Conception & implémentation d'interfaces utilisateur (UI)
+          - >
+            Développement et opération de taches planifiées backend pour le
+            provisionning de matériel et SIM
           - Intégration de périphériques IoT dans la plateforme
+          - Maintenance d'un serveur d'opération continue
           - Communication orale et ecrite **en anglais**
           - >
             **Outils:** Node, Docker, AWS, Kubernetes, Git, Scrum, GitHub
