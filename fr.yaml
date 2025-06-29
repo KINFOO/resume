@@ -27,7 +27,7 @@ cv:
           - Mise en place des procédures de *Site Reliability Engineering*
           - Mise en place de l'*intégration continue*
           - Mise en place du *déploiement continu*
-          - Traitements par lots: Ruby on Rails Solid Queue jobs
+          - 'Traitements par lots: Ruby on Rails Solid Queue jobs'
           - >
             Création, mise en place et opération des instances de production et
             de pré-production
