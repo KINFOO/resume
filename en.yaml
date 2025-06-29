@@ -27,6 +27,7 @@ cv:
           - Setting up *Site Reliability Engineering* processes
           - Setting up & maintain *Continuous Integration*
           - Setting up & maintain *Continuous Delivery*
+          - Ruby on Rails Solid Queue jobs
           - >
             Initiate & operrate production and pre-production instances from
             scratch
