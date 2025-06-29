@@ -25,6 +25,7 @@
 * release 2025-06-09_2338 ([6d3d743](https://github.com/KINFOO/resume/commit/6d3d7433055594d2834be22c9e5aadb8bc5df901))
 * release 2025-06-09_2340 ([51b7107](https://github.com/KINFOO/resume/commit/51b71072dd73b62ef734c73947d28ad8d7924a60))
 * release 2025-06-10_0000 ([92d9d55](https://github.com/KINFOO/resume/commit/92d9d556c62dcbeb8c8bb92da83e337b00c6cae2))
+* release 2025-06-29_2237 ([c0d92cc](https://github.com/KINFOO/resume/commit/c0d92cc935aacd81a4928f4cdb446abfb6889f74))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
@@ -50,6 +51,7 @@
 
 * english spelling ([ae58656](https://github.com/KINFOO/resume/commit/ae58656f44552e9e1f0df929049a105f0ade6760))
 * formating in english ([7895bc5](https://github.com/KINFOO/resume/commit/7895bc583c4f4be94ad7539bd320074b05e7b2f0))
+* ruby on rails solid queues ([9a90fe0](https://github.com/KINFOO/resume/commit/9a90fe001d40360e0e8c79a32507e668338cc764))
 * typo in hybrid cloud link ([d99b731](https://github.com/KINFOO/resume/commit/d99b731475f339a78da5844784bed67149cc334b))
 * wrong values ([a5b82ec](https://github.com/KINFOO/resume/commit/a5b82ec1050eb0c4c1875ef587317e9896670aeb))
 
