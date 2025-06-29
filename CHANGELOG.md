@@ -1,4 +1,4 @@
-#  (2025-06-09)
+#  (2025-06-29)
 
 
 ### ci
@@ -24,6 +24,7 @@
 * release 2025-05-21_0931 ([9333b30](https://github.com/KINFOO/resume/commit/9333b30c3350014e7bc8d01102c080f95e62fc35))
 * release 2025-06-09_2338 ([6d3d743](https://github.com/KINFOO/resume/commit/6d3d7433055594d2834be22c9e5aadb8bc5df901))
 * release 2025-06-09_2340 ([51b7107](https://github.com/KINFOO/resume/commit/51b71072dd73b62ef734c73947d28ad8d7924a60))
+* release 2025-06-10_0000 ([92d9d55](https://github.com/KINFOO/resume/commit/92d9d556c62dcbeb8c8bb92da83e337b00c6cae2))
 * start ci ([06d71ad](https://github.com/KINFOO/resume/commit/06d71adaf1c48d3d28f689927b924d71f5668c87))
 
 ### docs
@@ -40,6 +41,7 @@
 * adding experience and changing forgetheweb position ([79aabb8](https://github.com/KINFOO/resume/commit/79aabb850f9ccf2b23338efecbb0a62292d2ecbf))
 * adding kube experience ([f73d695](https://github.com/KINFOO/resume/commit/f73d695d93826190258fadf8fd8b2e8e8b4458b8))
 * french resume ([109bab6](https://github.com/KINFOO/resume/commit/109bab6876e835b719b7a934a4ed9f5c9ca4a71b))
+* ruby on rails solid queues ([fd3f3bc](https://github.com/KINFOO/resume/commit/fd3f3bce239a6eb4c0654e7bdd364ab00f98e545))
 * simple title & experience ([53395dd](https://github.com/KINFOO/resume/commit/53395dd313a3b637b3ded5a4f7da8030959c63aa))
 * update position at forgetheweb ([872dfd9](https://github.com/KINFOO/resume/commit/872dfd9b27c21c7d9553c8890ff91ddeac8ffd2c))
 * updating resumes ([01fdbc2](https://github.com/KINFOO/resume/commit/01fdbc25c44d7f9e94ab7e14036140ca5eeece6a))
